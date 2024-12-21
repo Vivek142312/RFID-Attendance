@@ -8,15 +8,15 @@ The Smart RFID Attendance Monitoring System aims to improve attendance managemen
 The project is designed for practical implementation and real-world usability, unlike many existing research efforts and traditional systems. Its modular architecture consists of an RFID module for data collection and a security and backup module for reliability and protection. This modular design boosts performance and simplifies upgrades and customization. The Smart RFID Attendance Monitoring System is innovative and useful for overcoming the drawbacks of conventional and automated attendance systems. Its focus on contactless operation, data analytics, user privacy, and energy efficiency makes it an innovative solution for future attendance management applications in education, business, and industry.
 
 ## Components Used
-| Items | Qty | Description |
-| ------------- | ------------- | ------------- |
-|Arduiino Uno|1|Main microcontroller board|
-|RC522|1|RFID sensor|
-|Cards|5|RFID Cards|
-|DS3231|1|RTC Module|
-|16*2 I2C LCD|1|LCD Screen|
-|Buzzer|1|Buzzer for notification|
-|Jumper Wires|1 Set|Wires for connection|
+|Sl No.| Items | Qty | Description |
+|1| ------------- | ------------- | ------------- |
+|2|Arduiino Uno|1|Main microcontroller board|
+|3|RC522|1|RFID sensor|
+|4|Cards|5|RFID Cards|
+|5|DS3231|1|RTC Module|
+|6|16*2 I2C LCD|1|LCD Screen|
+|7|Buzzer|1|Buzzer for notification|
+|8|Jumper Wires|1 Set|Wires for connection|
 
 ## Circuit Diagram
 
