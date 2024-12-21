@@ -9,14 +9,14 @@ The project is designed for practical implementation and real-world usability, u
 
 ## Components Used
 |Sl No.| Items | Qty | Description |
-|1| ------------- | ------------- | ------------- |
-|2|Arduiino Uno|1|Main microcontroller board|
-|3|RC522|1|RFID sensor|
-|4|Cards|5|RFID Cards|
-|5|DS3231|1|RTC Module|
-|6|16*2 I2C LCD|1|LCD Screen|
-|7|Buzzer|1|Buzzer for notification|
-|8|Jumper Wires|1 Set|Wires for connection|
+|----------|------------- | ------------- | ------------- |
+|1|Arduiino Uno|1|Main microcontroller board|
+|2|RC522|1|RFID sensor|
+|3|Cards|5|RFID Cards|
+|4|DS3231|1|RTC Module|
+|5|16*2 I2C LCD|1|LCD Screen|
+|6|Buzzer|1|Buzzer for notification|
+|7|Jumper Wires|1 Set|Wires for connection|
 
 ## Circuit Diagram
 
